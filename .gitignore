@@ -1,3 +1,7 @@
 Zajecie1_tutorialy
 *csv
 .venv
+*.pdf
+*.html
+*.md
+*.png
